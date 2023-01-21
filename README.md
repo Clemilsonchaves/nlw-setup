@@ -18,7 +18,11 @@ Programa gratuito promovido pela Rocketseat.
 <br>
 
 <p align="center">
+<<<<<<< HEAD
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%"> 
+=======
+  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+>>>>>>> fc6e6bef5a73208210fc6c04ee59bfc7086a2c1c
 </p>
 
 ## 🚀 Tecnologias
@@ -43,4 +47,8 @@ Esse projeto está sob a licença MIT.
 
 ---
 
+<<<<<<< HEAD
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+=======
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+>>>>>>> fc6e6bef5a73208210fc6c04ee59bfc7086a2c1c
