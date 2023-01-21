@@ -37,14 +37,5 @@ O Habits é um app para ajudar a rastrear os hábitos.
 
 Você pode visualizar o layout do projeto através [DESSE LINK]  (https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+   
 
-Esse projeto está sob a licença MIT.   
-
----
-
-<<<<<<< HEAD
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
-=======
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
->>>>>>> fc6e6bef5a73208210fc6c04ee59bfc7086a2c1c
